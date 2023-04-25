@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center"
-    <a href="linkedin-url">
+    <a href="https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/dmit_ps">
