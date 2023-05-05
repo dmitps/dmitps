@@ -19,8 +19,8 @@ Information technology and big data arouse my boundless interest, fascinate and 
 ### About me
 
 - :seedling: I`m currently learning **LightGBM, SQL**
-- :iphone: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
-- :earth_africa: I speak Russian, English
+- :desktop_computer: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
+- :globe_with_meridians: I speak Russian, English
 
 ### Languages and tools
 
