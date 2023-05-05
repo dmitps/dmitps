@@ -12,6 +12,10 @@
   </a>
 </div>
 
+### About me
+- :seedling: I`m currently learning **LightGBM, SQL**
+- :globe_with_meridians: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
+
 <!--
 **dmitps/dmitps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
