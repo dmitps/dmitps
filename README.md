@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I’m Dmitrii :telescope: </h1>
+    <h1>Hi there, I’m Dmitrii</h1>
     <h3>Data Scientist from Saint Petersburg</h3>
 </div>
 
@@ -14,7 +14,10 @@
 
 Information technology and big data arouse my boundless interest, fascinate and motivate. Data Science is an incredibly exciting field of knowledge. I am convinced that in the future the importance of Data Science will only increase. To be successful, you need to study continuously - that's fine. We will do so.
 
+---
+
 ### About me
+
 - :seedling: I`m currently learning **LightGBM, SQL**
 - :iphone: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
 - :earth_africa: I speak Russian, English
@@ -27,22 +30,10 @@ Information technology and big data arouse my boundless interest, fascinate and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="pytorch" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
 
+### My stat
 
-
-
-
-
-<!--
-**dmitps/dmitps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmitps&theme=apprentice" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=apprentice" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=apprentice" alt=""/>
+</div>
