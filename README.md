@@ -34,6 +34,6 @@ Information technology and big data arouse my boundless interest, fascinate and 
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmitps&theme=apprentice" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=apprentice" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=apprentice" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmitps&theme=apprentice" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dmitps&theme=apprentice" alt=""/>
 </div>
