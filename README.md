@@ -17,6 +17,19 @@
 - :iphone: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
 - :earth_africa: I speak Russian, English
 
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="pytorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
+
+
+
+
+
+
 <!--
 **dmitps/dmitps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
