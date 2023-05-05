@@ -3,13 +3,13 @@
     <h3>Data Scientist from Saint Petersburg</h3>
 </div>
 
-<div id="socials" align="center"
-    <a href="https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/dmit_ps">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://t.me/dmit_ps">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 </div>
 
 <!--
