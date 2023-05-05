@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I’m Dmitrii 👋</h1>
+    <h1>Hi there, I’m Dmitrii :telescope: </h1>
     <h3>Data Scientist from Saint Petersburg</h3>
 </div>
 
@@ -14,7 +14,8 @@
 
 ### About me
 - :seedling: I`m currently learning **LightGBM, SQL**
-- :globe_with_meridians: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
+- :iphone: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
+- :earth_africa: I speak Russian, English
 
 <!--
 **dmitps/dmitps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
