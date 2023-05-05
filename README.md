@@ -12,6 +12,8 @@
   </a>
 </div>
 
+Information technology and big data arouse my boundless interest, fascinate and motivate. Data Science is an incredibly exciting field of knowledge. I am convinced that in the future the importance of Data Science will only increase. To be successful, you need to study continuously - that's fine. We will do so.
+
 ### About me
 - :seedling: I`m currently learning **LightGBM, SQL**
 - :iphone: Reach me by [LinkedIn](https://www.linkedin.com/in/dmitrii-petrochenko-1b32a0274/), [Telegram](https://t.me/dmit_ps), [email](mailto:dmit.ps.info@gmail.com)
